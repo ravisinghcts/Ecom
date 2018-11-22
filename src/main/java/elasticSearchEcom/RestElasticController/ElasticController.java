@@ -20,7 +20,7 @@ public class ElasticController {
 	
 	@Autowired
 	
-	gggg
+	
 	ElasticSearchRepo elasticSearchRepo;
 	/*
 	@Autowired*/
